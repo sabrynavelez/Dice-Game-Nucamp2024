@@ -1,2 +1,4 @@
-# Dice-Game-Nucamp2024
-Dice Game using JavaScript
+# Dice Game 
+I created a fun dice-rolling game using JavaScript, HTML, and CSS. In this game, you roll a virtual dice and earn or lose gold coins based on the outcome. Rolling a 5 or 6 adds that many coins to your total, while rolling a 4 deducts one coin. However, if you roll a 1, you lose all your coins and have to start over! After every roll, the game updates you on how many coins you have, making it exciting to keep playing and see how much you can earn. The JavaScript handles all the game logic, while the HTML and CSS create an appealing interface for rolling the dice. I’m still learning JavaScript, so while the basic game works well, I haven’t yet figured out how to customize the pop-up messages with CSS—but I’m eager to improve this as I continue learning!
+
+Website Link: https://dice-game-nucamp2024.web.app/
